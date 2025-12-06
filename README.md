@@ -4,5 +4,5 @@ Here I share the projects I create while learning and improving my development j
 
 🟢 Currently working on: personal projects & frontend practice  
 📌 Open to: beginner-friendly collaborations  
-📫 Reach me: (add your email if you want)
+📫 Reach me: (kittujain545@gmail.com)
 
