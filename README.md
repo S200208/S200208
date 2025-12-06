@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @S200208
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m Somya 👋  
+I enjoy building clean, simple, and user-friendly web interfaces.  
+Here I share the projects I create while learning and improving my development journey.
 
-<!---
-S200208/S200208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🟢 Currently working on: personal projects & frontend practice  
+📌 Open to: beginner-friendly collaborations  
+📫 Reach me: (add your email if you want)
+
